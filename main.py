@@ -1,3 +1,6 @@
+import json
+from datetime import datetime
+import os
 import re
 
 def read_file(filepath):
@@ -8,6 +11,16 @@ def read_file(filepath):
     except FileNotFoundError:
         print(f"Error: The file '{filepath}' was not found.")
         return None
+    
+def save_snapshot(data, out_dir="snapshots"):
+    os.makedirs(out_dir, exist_ok=True)
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    filename = f"{out_dir}/parsed_snapshot_{timestamp}.json"
+    
+    with open(filename, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+    
+    print(f"\nSnapshot saved to: {filename}")
 
 def show_raw_lines(lines, header_lines=5):
     print("Showing raw lines (after skipping header):\n")
@@ -68,6 +81,8 @@ def main():
             print("⚠️ Mismatch detected! Some classes may not have been parsed correctly.")
         else:
             print("✅ All class codes matched and parsed successfully.")
+            save_snapshot(parsed_entries)
+
     else:
         print("Failed to read the file.")
 
