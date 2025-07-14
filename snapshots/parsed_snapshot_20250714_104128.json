@@ -1,0 +1,42 @@
+[
+  {
+    "class_code": "25016",
+    "course_code": "PE 2 BD SIJ",
+    "course_title": "Badminton"
+  },
+  {
+    "class_code": "25017",
+    "course_code": "PE 2 BD SKL",
+    "course_title": "Badminton"
+  },
+  {
+    "class_code": "25018",
+    "course_code": "PE 2 BRW THL",
+    "course_title": "Bird Watching"
+  },
+  {
+    "class_code": "25024",
+    "course_code": "PE 2 BS-M FCD",
+    "course_title": "Basic Basketball for Men"
+  },
+  {
+    "class_code": "25023",
+    "course_code": "PE 2 BS-M WCD",
+    "course_title": "Basic Basketball for Men"
+  },
+  {
+    "class_code": "25021",
+    "course_code": "PE 2 BS-W HCD",
+    "course_title": "Basic Basketball for Women"
+  },
+  {
+    "class_code": "25022",
+    "course_code": "PE 2 BS-W TCD",
+    "course_title": "Basic Basketball for Women"
+  },
+  {
+    "class_code": "25008",
+    "course_code": "PE 2 CH MBC",
+    "course_title": "Chess"
+  }
+]
