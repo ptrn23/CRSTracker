@@ -16,7 +16,7 @@ TOMANENG, CHARMIE CHRISTINE
 S 1-3PM PE TBA
 
 
-100% F2F	0 / 24	128	Add to my desired classes
+100% F2F	0 / 24	141	Add to my desired classes
 25017
 
 
@@ -30,7 +30,7 @@ TOMANENG, CHARMIE CHRISTINE
 S 3-5PM PE TBA
 
 
-100% F2F	0 / 24	100	Add to my desired classes
+100% F2F	0 / 24	107	Add to my desired classes
 25018
 
 
@@ -44,4 +44,946 @@ MADRIGAL, NORBERTO
 TTh 4-5PM PE TBA
 
 
-100% F2F	0 / 24	103	Add to my desired classes
+100% F2F	0 / 24	110	Add to my desired classes
+25024
+
+
+PE 2 BS-M FCD
+Basic Basketball for Men
+BARBER, EDWIN
+
+(2.0)
+
+
+F 9-11AM PE TBA
+
+
+For: Male
+100% F2F	0 / 24	15	Add to my desired classes
+25023
+
+
+PE 2 BS-M WCD
+Basic Basketball for Men
+BARBER, EDWIN
+
+(2.0)
+
+
+W 9-11AM PE TBA
+
+
+For: Male
+100% F2F	0 / 24	11	Add to my desired classes
+25021
+
+
+PE 2 BS-W HCD
+Basic Basketball for Women
+BARBER, EDWIN
+
+(2.0)
+
+
+Th 9-11AM PE TBA
+
+
+For: Female
+100% F2F	13 / 24	12	Add to my desired classes
+25022
+
+
+PE 2 BS-W TCD
+Basic Basketball for Women
+BARBER, EDWIN
+
+(2.0)
+
+
+T 9-11AM PE TBA
+
+
+For: Female
+100% F2F	21 / 24	13	Add to my desired classes
+25008
+
+
+PE 2 CH MBC
+Chess
+SOLIS, QUEENIE ROSE
+
+(2.0)
+
+
+M 8-10AM PE TBA
+
+
+100% F2F	0 / 24	28	Add to my desired classes
+25009
+
+
+PE 2 CH MDE
+Chess
+SOLIS, QUEENIE ROSE
+
+(2.0)
+
+
+M 10AM-12PM PE TBA
+
+
+100% F2F	0 / 24	48	Add to my desired classes
+25010
+
+
+PE 2 CH MIJ
+Chess
+SOLIS, QUEENIE ROSE
+
+(2.0)
+
+
+M 1-3PM PE TBA
+
+
+100% F2F	0 / 24	41	Add to my desired classes
+25011
+
+
+PE 2 CH MKL
+Chess
+SOLIS, QUEENIE ROSE
+
+(2.0)
+
+
+M 3-5PM PE TBA
+
+
+100% F2F	0 / 24	22	Add to my desired classes
+24996
+
+
+PE 2 CH SBC
+Chess
+CARLOS, LEONARDO
+
+(2.0)
+
+
+S 8-10AM PE TBA
+
+
+100% F2F	0 / 24	13	Add to my desired classes
+24997
+
+
+PE 2 CH SDE
+Chess
+CARLOS, LEONARDO
+
+(2.0)
+
+
+S 10AM-12PM PE TBA
+
+
+100% F2F	0 / 24	16	Add to my desired classes
+24998
+
+
+PE 2 CH SIJ
+Chess
+CARLOS, LEONARDO
+
+(2.0)
+
+
+S 1-3PM PE TBA
+
+
+100% F2F	0 / 24	12	Add to my desired classes
+24999
+
+
+PE 2 CH SKL
+Chess
+CARLOS, LEONARDO
+
+(2.0)
+
+
+S 3-5PM PE TBA
+
+
+100% F2F	0 / 24	5	Add to my desired classes
+25004
+
+
+PE 2 CH THD
+Chess
+PEREÑA, CATHERINE
+
+(2.0)
+
+
+TTh 10-11AM PE TBA
+
+
+100% F2F	0 / 24	7	Add to my desired classes
+25005
+
+
+PE 2 CH THE
+Chess
+PEREÑA, CATHERINE
+
+(2.0)
+
+
+TTh 11AM-12PM PE TBA
+
+
+100% F2F	0 / 24	4	Add to my desired classes
+25006
+
+
+PE 2 CH THI
+Chess
+PEREÑA, CATHERINE
+
+(2.0)
+
+
+TTh 1-2PM PE TBA
+
+
+100% F2F	0 / 24	10	Add to my desired classes
+25007
+
+
+PE 2 CH THJ
+Chess
+PEREÑA, CATHERINE
+
+(2.0)
+
+
+TTh 2-3PM PE TBA
+
+
+100% F2F	0 / 24	4	Add to my desired classes
+24962
+
+
+PE 2 CPW SBC
+Camping for Wellness
+GOPALAN, LESLIE
+
+(2.0)
+
+
+S 8-10AM PE TBA
+
+
+Face 2 Face; OPTIONAL Overnight Campout/Fees (P1k/sem)	0 / 24	27	Add to my desired classes
+24977
+
+
+PE 2 CPW SBC-1
+Camping for Wellness
+LIMBO, MATTHEW JAZZTINE
+
+(2.0)
+
+
+S 8-10AM PE TBA
+
+
+Face to Face with Camping Fees	0 / 24	27	Add to my desired classes
+24963
+
+
+PE 2 CPW SDE
+Camping for Wellness
+GOPALAN, LESLIE
+
+(2.0)
+
+
+S 10AM-12PM PE TBA
+
+
+Face 2 Face; OPTIONAL Overnight Campout/Fees (P1k/sem)	0 / 24	36	Add to my desired classes
+24978
+
+
+PE 2 CPW SDE-1
+Camping for Wellness
+LIMBO, MATTHEW JAZZTINE
+
+(2.0)
+
+
+S 10AM-12PM PE TBA
+
+
+Face to Face with Camping Fees	0 / 24	33	Add to my desired classes
+25015
+
+
+PE 2 CT SDE
+Circuit Training
+TOMANENG, CHARMIE CHRISTINE
+
+(2.0)
+
+
+S 10AM-12PM PE TBA
+
+
+100% F2F	0 / 24	24	Add to my desired classes
+24994
+
+
+PE 2 HIIT THC
+High Intensity Interval Training
+CALLANTA, CHRISTOPHER EMMANUEL
+
+(2.0)
+
+
+TTh 9-10AM PE TBA
+
+
+100% F2F	0 / 24	7	Add to my desired classes
+24995
+
+
+PE 2 HIIT WFC
+High Intensity Interval Training
+CALLANTA, CHRISTOPHER EMMANUEL
+
+(2.0)
+
+
+WF 9-10AM PE TBA
+
+
+100% F2F	0 / 24	7	Add to my desired classes
+24959
+
+
+PE 2 OR MIJ
+Orienteering
+CABOTAGE, SALVADOR ELMER
+
+(2.0)
+
+
+M 1-3PM PE TBA
+
+
+Face to Face with camping/orienteering fee	0 / 24	32	Add to my desired classes
+24960
+
+
+PE 2 OR MKL
+Orienteering
+CABOTAGE, SALVADOR ELMER
+
+(2.0)
+
+
+M 3-5PM PE TBA
+
+
+Face to Face with camping/orienteering fee	0 / 24	25	Add to my desired classes
+24961
+
+
+PE 2 OR WFD
+Orienteering
+CABOTAGE, SALVADOR ELMER
+
+(2.0)
+
+
+WF 10-11AM PE TBA
+
+
+Face to Face with camping/orienteering fee	0 / 24	11	Add to my desired classes
+25000
+
+
+PE 2 PF THA
+Philippine Folk Dance
+DAYRIT, VI-AMOR
+
+(2.0)
+
+
+TTh 7-8AM PE TBA
+
+
+100% F2F	0 / 24	12	Add to my desired classes
+25001
+
+
+PE 2 PF THB
+Philippine Folk Dance
+DAYRIT, VI-AMOR
+
+(2.0)
+
+
+TTh 8-9AM PE TBA
+
+
+100% F2F	0 / 24	3	Add to my desired classes
+25002
+
+
+PE 2 PF THC
+Philippine Folk Dance
+DAYRIT, VI-AMOR
+
+(2.0)
+
+
+TTh 9-10AM PE TBA
+
+
+100% F2F	0 / 24	1	Add to my desired classes
+25003
+
+
+PE 2 PF THD
+Philippine Folk Dance
+DAYRIT, VI-AMOR
+
+(2.0)
+
+
+TTh 10-11AM PE TBA
+
+
+100% F2F	0 / 21	6	Add to my desired classes
+24992
+
+
+PE 2 PG SJK
+Philippine Games
+ALONSO, LEANNE
+
+(2.0)
+
+
+S 2-4PM PE TBA
+
+
+100% F2F	0 / 24	65	Add to my desired classes
+24988
+
+
+PE 2 PG THK
+Philippine Games
+YLEAÑA, CATE JESSIE ANN
+
+(2.0)
+
+
+TTh 3-4PM PE TBA
+
+
+100% F2F	0 / 24	53	Add to my desired classes
+24955
+
+
+PE 2 RF SBC
+Running for Fitness
+BRUÑA, JENNY ROSE
+
+(2.0)
+
+
+S 8-10AM PE TBA
+
+
+100% F2F	0 / 24	38	Add to my desired classes
+24956
+
+
+PE 2 RF THA
+Running for Fitness
+BRUÑA, JENNY ROSE
+
+(2.0)
+
+
+TTh 7-8AM PE TBA
+
+
+100% F2F	0 / 24	15	Add to my desired classes
+24957
+
+
+PE 2 RF THB
+Running for Fitness
+BRUÑA, JENNY ROSE
+
+(2.0)
+
+
+TTh 8-9AM PE TBA
+
+
+100% F2F	0 / 24	10	Add to my desired classes
+24966
+
+
+PE 2 RF THB-1
+Running for Fitness
+MARCELO, GERMAR
+
+(2.0)
+
+
+TTh 8-9AM PE TBA
+
+
+100% F2F	0 / 24	7	Add to my desired classes
+24967
+
+
+PE 2 RF THC
+Running for Fitness
+MARCELO, GERMAR
+
+(2.0)
+
+
+TTh 9-10AM PE TBA
+
+
+100% F2F	0 / 24	10	Add to my desired classes
+24958
+
+
+PE 2 RF WFA
+Running for Fitness
+BRUÑA, JENNY ROSE
+
+(2.0)
+
+
+WF 7-8AM PE TBA
+
+
+100% F2F	0 / 24	15	Add to my desired classes
+24965
+
+
+PE 2 RF WFA-1
+Running for Fitness
+GOPALAN, LESLIE
+
+(2.0)
+
+
+WF 7-8AM PE TBA
+
+
+100% F2F	0 / 24	20	Add to my desired classes
+24968
+
+
+PE 2 RF WFB
+Running for Fitness
+MARCELO, GERMAR
+
+(2.0)
+
+
+WF 8-9AM PE TBA
+
+
+100% F2F	0 / 24	12	Add to my desired classes
+24969
+
+
+PE 2 RF WFC
+Running for Fitness
+MARCELO, GERMAR
+
+(2.0)
+
+
+WF 9-10AM PE TBA
+
+
+100% F2F	0 / 24	6	Add to my desired classes
+24974
+
+
+PE 2 SCD SBC
+Scuba Diving
+REYES, MARY ANN
+
+(2.0)
+
+
+S 8-10AM PE TBA
+
+
+100% F2F, PHP 4,800 Scuba Fee	0 / 70	6	Add to my desired classes
+24975
+
+
+PE 2 SCD SDE
+Scuba Diving
+REYES, MARY ANN
+
+(2.0)
+
+
+S 10AM-12PM PE TBA
+
+
+100% F2F, PHP 4,800 Scuba Fee	0 / 70	7	Add to my desired classes
+24976
+
+
+PE 2 SCD SJK
+Scuba Diving
+REYES, MARY ANN
+
+(2.0)
+
+
+S 2-4PM PE TBA
+
+
+100% F2F, PHP 4,800 Scuba Fee	0 / 70	6	Add to my desired classes
+24979
+
+
+PE 2 SCL MAB
+Sports Climbing
+AQUINO, JOHN PATRICK
+
+(2.0)
+
+
+M 7-9AM PE TBA
+
+
+100% F2F	0 / 24	36	Add to my desired classes
+24980
+
+
+PE 2 SCL MCD
+Sports Climbing
+AQUINO, JOHN PATRICK
+
+(2.0)
+
+
+M 9-11AM PE TBA
+
+
+100% F2F	0 / 24	59	Add to my desired classes
+24981
+
+
+PE 2 SCL WCD
+Sports Climbing
+AQUINO, JOHN PATRICK
+
+(2.0)
+
+
+W 9-11AM PE TBA
+
+
+100% F2F	0 / 24	19	Add to my desired classes
+24989
+
+
+PE 2 ST THL
+Stretching
+TBA
+
+(2.0)
+
+
+TTh 4-5PM PE TBA
+
+
+100% F2F	0 / 20	78	Add to my desired classes
+25025
+
+
+PE 2 STD WFC
+Basic Street Dance
+ASILO, VON ACE
+
+(2.0)
+
+
+WF 9-10AM PE TBA
+
+
+100% F2F	0 / 24	16	Add to my desired classes
+25026
+
+
+PE 2 STD WFD
+Basic Street Dance
+ASILO, VON ACE
+
+(2.0)
+
+
+WF 10-11AM PE TBA
+
+
+100% F2F	0 / 24	21	Add to my desired classes
+25027
+
+
+PE 2 STD WFE
+Basic Street Dance
+ASILO, VON ACE
+
+(2.0)
+
+
+WF 11AM-12PM PE TBA
+
+
+100% F2F	0 / 24	14	Add to my desired classes
+24991
+
+
+PE 2 TD MAB
+Tap Dance
+PERENA, LALAINE ROSENDA
+
+(2.0)
+
+
+M 7-9AM PE TBA
+
+
+100% F2F	0 / 24	6	Add to my desired classes
+24990
+
+
+PE 2 TD TAB
+Tap Dance
+PERENA, LALAINE ROSENDA
+
+(2.0)
+
+
+T 7-9AM PE TBA
+
+
+100% F2F	0 / 24	2	Add to my desired classes
+25019
+
+
+PE 2 TT THD
+Table Tennis
+SANTIAGO, MA RACHELLE
+
+(2.0)
+
+
+TTh 10-11AM PE TBA
+
+
+100% F2F	0 / 24	20	Add to my desired classes
+25020
+
+
+PE 2 TT THE
+Table Tennis
+SANTIAGO, MA RACHELLE
+
+(2.0)
+
+
+TTh 11AM-12PM PE TBA
+
+
+100% F2F	0 / 24	17	Add to my desired classes
+24982
+
+
+PE 2 WF MBC
+Walking for Fitness
+BARTOLOME, RON ANTHONY
+
+(2.0)
+
+
+M 8-10AM PE TBA
+
+
+100% F2F	0 / 24	81	Add to my desired classes
+24964
+
+
+PE 2 WF THA
+Walking for Fitness
+GOPALAN, LESLIE
+
+(2.0)
+
+
+TTh 7-8AM PE TBA
+
+
+100% F2F	0 / 24	30	Add to my desired classes
+24972
+
+
+PE 2 WF THA-1
+Walking for Fitness
+SANTIAGO, MA RACHELLE
+
+(2.0)
+
+
+TTh 7-8AM PE TBA
+
+
+100% F2F	0 / 24	30	Add to my desired classes
+24953
+
+
+PE 2 WF THB
+Walking for Fitness
+BERNALES, GABRIELLE MIKAELA
+
+(2.0)
+
+
+TTh 8-9AM PE TBA
+
+
+100% F2F	0 / 24	16	Add to my desired classes
+24970
+
+
+PE 2 WF THB-1
+Walking for Fitness
+OPINALDO, PIO NIÑO
+
+(2.0)
+
+
+TTh 8-9AM PE TBA
+
+
+100% F2F	0 / 24	6	Add to my desired classes
+24973
+
+
+PE 2 WF THB-2
+Walking for Fitness
+SANTIAGO, MA RACHELLE
+
+(2.0)
+
+
+TTh 8-9AM PE TBA
+
+
+100% F2F	0 / 24	12	Add to my desired classes
+24954
+
+
+PE 2 WF THC
+Walking for Fitness
+BERNALES, GABRIELLE MIKAELA
+
+(2.0)
+
+
+TTh 9-10AM PE TBA
+
+
+100% F2F	0 / 24	19	Add to my desired classes
+24971
+
+
+PE 2 WF THC-1
+Walking for Fitness
+OPINALDO, PIO NIÑO
+
+(2.0)
+
+
+TTh 9-10AM PE TBA
+
+
+100% F2F	0 / 24	13	Add to my desired classes
+24983
+
+
+PE 2 WF WFB
+Walking for Fitness
+OPINALDO, PIO NIÑO
+
+(2.0)
+
+
+WF 8-9AM PE TBA
+
+
+100% F2F	0 / 24	15	Add to my desired classes
+24984
+
+
+PE 2 WF WFC
+Walking for Fitness
+OPINALDO, PIO NIÑO
+
+(2.0)
+
+
+WF 9-10AM PE TBA
+
+
+100% F2F	0 / 24	29	Add to my desired classes
+24993
+
+
+PE 2 WF WFL
+Walking for Fitness
+ALONSO, LEANNE
+
+(2.0)
+
+
+WF 4-5PM PE TBA
+
+
+100% WF	0 / 24	50	Add to my desired classes
+25014
+
+
+PE 2 WT SBC
+Weight Training
+TOMANENG, CHARMIE CHRISTINE
+
+(2.0)
+
+
+S 8-10AM PE TBA
+
+
+100% F2F	0 / 24	71	Add to my desired classes
