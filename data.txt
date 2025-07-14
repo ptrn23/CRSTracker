@@ -16,7 +16,7 @@ TOMANENG, CHARMIE CHRISTINE
 S 1-3PM PE TBA
 
 
-100% F2F	0 / 24	141	Add to my desired classes
+100% F2F	0 / 24	146	Add to my desired classes
 25017
 
 
@@ -30,7 +30,7 @@ TOMANENG, CHARMIE CHRISTINE
 S 3-5PM PE TBA
 
 
-100% F2F	0 / 24	107	Add to my desired classes
+100% F2F	0 / 24	111	Add to my desired classes
 25018
 
 
@@ -44,7 +44,7 @@ MADRIGAL, NORBERTO
 TTh 4-5PM PE TBA
 
 
-100% F2F	0 / 24	110	Add to my desired classes
+100% F2F	0 / 24	113	Add to my desired classes
 25024
 
 
@@ -89,7 +89,7 @@ Th 9-11AM PE TBA
 
 
 For: Female
-100% F2F	13 / 24	12	Add to my desired classes
+100% F2F	13 / 24	14	Add to my desired classes
 25022
 
 
@@ -104,7 +104,7 @@ T 9-11AM PE TBA
 
 
 For: Female
-100% F2F	21 / 24	13	Add to my desired classes
+100% F2F	21 / 24	14	Add to my desired classes
 25008
 
 
@@ -118,7 +118,7 @@ SOLIS, QUEENIE ROSE
 M 8-10AM PE TBA
 
 
-100% F2F	0 / 24	28	Add to my desired classes
+100% F2F	0 / 24	29	Add to my desired classes
 25009
 
 
@@ -132,7 +132,7 @@ SOLIS, QUEENIE ROSE
 M 10AM-12PM PE TBA
 
 
-100% F2F	0 / 24	48	Add to my desired classes
+100% F2F	0 / 24	50	Add to my desired classes
 25010
 
 
@@ -146,7 +146,7 @@ SOLIS, QUEENIE ROSE
 M 1-3PM PE TBA
 
 
-100% F2F	0 / 24	41	Add to my desired classes
+100% F2F	0 / 24	44	Add to my desired classes
 25011
 
 
@@ -160,7 +160,7 @@ SOLIS, QUEENIE ROSE
 M 3-5PM PE TBA
 
 
-100% F2F	0 / 24	22	Add to my desired classes
+100% F2F	0 / 24	24	Add to my desired classes
 24996
 
 
@@ -174,7 +174,7 @@ CARLOS, LEONARDO
 S 8-10AM PE TBA
 
 
-100% F2F	0 / 24	13	Add to my desired classes
+100% F2F	0 / 24	14	Add to my desired classes
 24997
 
 
@@ -188,7 +188,7 @@ CARLOS, LEONARDO
 S 10AM-12PM PE TBA
 
 
-100% F2F	0 / 24	16	Add to my desired classes
+100% F2F	0 / 24	17	Add to my desired classes
 24998
 
 
@@ -202,7 +202,7 @@ CARLOS, LEONARDO
 S 1-3PM PE TBA
 
 
-100% F2F	0 / 24	12	Add to my desired classes
+100% F2F	0 / 24	14	Add to my desired classes
 24999
 
 
@@ -216,7 +216,7 @@ CARLOS, LEONARDO
 S 3-5PM PE TBA
 
 
-100% F2F	0 / 24	5	Add to my desired classes
+100% F2F	0 / 24	6	Add to my desired classes
 25004
 
 
@@ -230,7 +230,7 @@ PEREÑA, CATHERINE
 TTh 10-11AM PE TBA
 
 
-100% F2F	0 / 24	7	Add to my desired classes
+100% F2F	0 / 24	8	Add to my desired classes
 25005
 
 
@@ -258,7 +258,7 @@ PEREÑA, CATHERINE
 TTh 1-2PM PE TBA
 
 
-100% F2F	0 / 24	10	Add to my desired classes
+100% F2F	0 / 24	12	Add to my desired classes
 25007
 
 
@@ -272,7 +272,7 @@ PEREÑA, CATHERINE
 TTh 2-3PM PE TBA
 
 
-100% F2F	0 / 24	4	Add to my desired classes
+100% F2F	0 / 24	7	Add to my desired classes
 24962
 
 
@@ -286,7 +286,7 @@ GOPALAN, LESLIE
 S 8-10AM PE TBA
 
 
-Face 2 Face; OPTIONAL Overnight Campout/Fees (P1k/sem)	0 / 24	27	Add to my desired classes
+Face 2 Face; OPTIONAL Overnight Campout/Fees (P1k/sem)	0 / 24	30	Add to my desired classes
 24977
 
 
@@ -300,7 +300,7 @@ LIMBO, MATTHEW JAZZTINE
 S 8-10AM PE TBA
 
 
-Face to Face with Camping Fees	0 / 24	27	Add to my desired classes
+Face to Face with Camping Fees	0 / 24	30	Add to my desired classes
 24963
 
 
@@ -314,7 +314,7 @@ GOPALAN, LESLIE
 S 10AM-12PM PE TBA
 
 
-Face 2 Face; OPTIONAL Overnight Campout/Fees (P1k/sem)	0 / 24	36	Add to my desired classes
+Face 2 Face; OPTIONAL Overnight Campout/Fees (P1k/sem)	0 / 24	40	Add to my desired classes
 24978
 
 
@@ -328,7 +328,7 @@ LIMBO, MATTHEW JAZZTINE
 S 10AM-12PM PE TBA
 
 
-Face to Face with Camping Fees	0 / 24	33	Add to my desired classes
+Face to Face with Camping Fees	0 / 24	37	Add to my desired classes
 25015
 
 
@@ -342,7 +342,7 @@ TOMANENG, CHARMIE CHRISTINE
 S 10AM-12PM PE TBA
 
 
-100% F2F	0 / 24	24	Add to my desired classes
+100% F2F	0 / 24	25	Add to my desired classes
 24994
 
 
@@ -370,7 +370,7 @@ CALLANTA, CHRISTOPHER EMMANUEL
 WF 9-10AM PE TBA
 
 
-100% F2F	0 / 24	7	Add to my desired classes
+100% F2F	0 / 24	9	Add to my desired classes
 24959
 
 
@@ -384,7 +384,7 @@ CABOTAGE, SALVADOR ELMER
 M 1-3PM PE TBA
 
 
-Face to Face with camping/orienteering fee	0 / 24	32	Add to my desired classes
+Face to Face with camping/orienteering fee	0 / 24	34	Add to my desired classes
 24960
 
 
@@ -398,7 +398,7 @@ CABOTAGE, SALVADOR ELMER
 M 3-5PM PE TBA
 
 
-Face to Face with camping/orienteering fee	0 / 24	25	Add to my desired classes
+Face to Face with camping/orienteering fee	0 / 24	27	Add to my desired classes
 24961
 
 
@@ -412,7 +412,7 @@ CABOTAGE, SALVADOR ELMER
 WF 10-11AM PE TBA
 
 
-Face to Face with camping/orienteering fee	0 / 24	11	Add to my desired classes
+Face to Face with camping/orienteering fee	0 / 24	10	Add to my desired classes
 25000
 
 
@@ -426,7 +426,7 @@ DAYRIT, VI-AMOR
 TTh 7-8AM PE TBA
 
 
-100% F2F	0 / 24	12	Add to my desired classes
+100% F2F	0 / 24	13	Add to my desired classes
 25001
 
 
@@ -468,7 +468,7 @@ DAYRIT, VI-AMOR
 TTh 10-11AM PE TBA
 
 
-100% F2F	0 / 21	6	Add to my desired classes
+100% F2F	0 / 21	5	Add to my desired classes
 24992
 
 
@@ -482,7 +482,7 @@ ALONSO, LEANNE
 S 2-4PM PE TBA
 
 
-100% F2F	0 / 24	65	Add to my desired classes
+100% F2F	0 / 24	68	Add to my desired classes
 24988
 
 
@@ -496,7 +496,7 @@ YLEAÑA, CATE JESSIE ANN
 TTh 3-4PM PE TBA
 
 
-100% F2F	0 / 24	53	Add to my desired classes
+100% F2F	0 / 24	56	Add to my desired classes
 24955
 
 
@@ -510,7 +510,7 @@ BRUÑA, JENNY ROSE
 S 8-10AM PE TBA
 
 
-100% F2F	0 / 24	38	Add to my desired classes
+100% F2F	0 / 24	39	Add to my desired classes
 24956
 
 
@@ -524,7 +524,7 @@ BRUÑA, JENNY ROSE
 TTh 7-8AM PE TBA
 
 
-100% F2F	0 / 24	15	Add to my desired classes
+100% F2F	0 / 24	14	Add to my desired classes
 24957
 
 
@@ -538,7 +538,7 @@ BRUÑA, JENNY ROSE
 TTh 8-9AM PE TBA
 
 
-100% F2F	0 / 24	10	Add to my desired classes
+100% F2F	0 / 24	11	Add to my desired classes
 24966
 
 
@@ -552,7 +552,7 @@ MARCELO, GERMAR
 TTh 8-9AM PE TBA
 
 
-100% F2F	0 / 24	7	Add to my desired classes
+100% F2F	0 / 24	8	Add to my desired classes
 24967
 
 
@@ -594,7 +594,7 @@ GOPALAN, LESLIE
 WF 7-8AM PE TBA
 
 
-100% F2F	0 / 24	20	Add to my desired classes
+100% F2F	0 / 24	19	Add to my desired classes
 24968
 
 
@@ -608,7 +608,7 @@ MARCELO, GERMAR
 WF 8-9AM PE TBA
 
 
-100% F2F	0 / 24	12	Add to my desired classes
+100% F2F	0 / 24	13	Add to my desired classes
 24969
 
 
@@ -622,7 +622,7 @@ MARCELO, GERMAR
 WF 9-10AM PE TBA
 
 
-100% F2F	0 / 24	6	Add to my desired classes
+100% F2F	0 / 24	5	Add to my desired classes
 24974
 
 
@@ -678,7 +678,7 @@ AQUINO, JOHN PATRICK
 M 7-9AM PE TBA
 
 
-100% F2F	0 / 24	36	Add to my desired classes
+100% F2F	0 / 24	37	Add to my desired classes
 24980
 
 
@@ -692,7 +692,7 @@ AQUINO, JOHN PATRICK
 M 9-11AM PE TBA
 
 
-100% F2F	0 / 24	59	Add to my desired classes
+100% F2F	0 / 24	63	Add to my desired classes
 24981
 
 
@@ -706,7 +706,7 @@ AQUINO, JOHN PATRICK
 W 9-11AM PE TBA
 
 
-100% F2F	0 / 24	19	Add to my desired classes
+100% F2F	0 / 24	18	Add to my desired classes
 24989
 
 
@@ -720,7 +720,7 @@ TBA
 TTh 4-5PM PE TBA
 
 
-100% F2F	0 / 20	78	Add to my desired classes
+100% F2F	0 / 20	81	Add to my desired classes
 25025
 
 
@@ -790,7 +790,7 @@ PERENA, LALAINE ROSENDA
 T 7-9AM PE TBA
 
 
-100% F2F	0 / 24	2	Add to my desired classes
+100% F2F	0 / 24	3	Add to my desired classes
 25019
 
 
@@ -818,7 +818,7 @@ SANTIAGO, MA RACHELLE
 TTh 11AM-12PM PE TBA
 
 
-100% F2F	0 / 24	17	Add to my desired classes
+100% F2F	0 / 24	18	Add to my desired classes
 24982
 
 
@@ -832,7 +832,7 @@ BARTOLOME, RON ANTHONY
 M 8-10AM PE TBA
 
 
-100% F2F	0 / 24	81	Add to my desired classes
+100% F2F	0 / 24	80	Add to my desired classes
 24964
 
 
@@ -846,7 +846,7 @@ GOPALAN, LESLIE
 TTh 7-8AM PE TBA
 
 
-100% F2F	0 / 24	30	Add to my desired classes
+100% F2F	0 / 24	35	Add to my desired classes
 24972
 
 
@@ -860,7 +860,7 @@ SANTIAGO, MA RACHELLE
 TTh 7-8AM PE TBA
 
 
-100% F2F	0 / 24	30	Add to my desired classes
+100% F2F	0 / 24	34	Add to my desired classes
 24953
 
 
@@ -874,7 +874,7 @@ BERNALES, GABRIELLE MIKAELA
 TTh 8-9AM PE TBA
 
 
-100% F2F	0 / 24	16	Add to my desired classes
+100% F2F	0 / 24	19	Add to my desired classes
 24970
 
 
@@ -916,7 +916,7 @@ BERNALES, GABRIELLE MIKAELA
 TTh 9-10AM PE TBA
 
 
-100% F2F	0 / 24	19	Add to my desired classes
+100% F2F	0 / 24	21	Add to my desired classes
 24971
 
 
@@ -944,7 +944,7 @@ OPINALDO, PIO NIÑO
 WF 8-9AM PE TBA
 
 
-100% F2F	0 / 24	15	Add to my desired classes
+100% F2F	0 / 24	16	Add to my desired classes
 24984
 
 
@@ -958,7 +958,7 @@ OPINALDO, PIO NIÑO
 WF 9-10AM PE TBA
 
 
-100% F2F	0 / 24	29	Add to my desired classes
+100% F2F	0 / 24	30	Add to my desired classes
 24993
 
 
@@ -972,7 +972,7 @@ ALONSO, LEANNE
 WF 4-5PM PE TBA
 
 
-100% WF	0 / 24	50	Add to my desired classes
+100% WF	0 / 24	51	Add to my desired classes
 25014
 
 
@@ -986,4 +986,4 @@ TOMANENG, CHARMIE CHRISTINE
 S 8-10AM PE TBA
 
 
-100% F2F	0 / 24	71	Add to my desired classes
+100% F2F	0 / 24	75	Add to my desired classes
