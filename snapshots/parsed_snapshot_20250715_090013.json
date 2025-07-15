@@ -1,0 +1,372 @@
+[
+  {
+    "class_code": "25048",
+    "course_code": "PE 2 AD THC",
+    "course_title": "Aerobic Dance"
+  },
+  {
+    "class_code": "25016",
+    "course_code": "PE 2 BD SIJ",
+    "course_title": "Badminton"
+  },
+  {
+    "class_code": "25017",
+    "course_code": "PE 2 BD SKL",
+    "course_title": "Badminton"
+  },
+  {
+    "class_code": "25018",
+    "course_code": "PE 2 BRW THL",
+    "course_title": "Bird Watching"
+  },
+  {
+    "class_code": "25024",
+    "course_code": "PE 2 BS-M FCD",
+    "course_title": "Basic Basketball for Men"
+  },
+  {
+    "class_code": "25023",
+    "course_code": "PE 2 BS-M WCD",
+    "course_title": "Basic Basketball for Men"
+  },
+  {
+    "class_code": "25021",
+    "course_code": "PE 2 BS-W HCD",
+    "course_title": "Basic Basketball for Women"
+  },
+  {
+    "class_code": "25022",
+    "course_code": "PE 2 BS-W TCD",
+    "course_title": "Basic Basketball for Women"
+  },
+  {
+    "class_code": "25008",
+    "course_code": "PE 2 CH MBC",
+    "course_title": "Chess"
+  },
+  {
+    "class_code": "25009",
+    "course_code": "PE 2 CH MDE",
+    "course_title": "Chess"
+  },
+  {
+    "class_code": "25010",
+    "course_code": "PE 2 CH MIJ",
+    "course_title": "Chess"
+  },
+  {
+    "class_code": "25011",
+    "course_code": "PE 2 CH MKL",
+    "course_title": "Chess"
+  },
+  {
+    "class_code": "24996",
+    "course_code": "PE 2 CH SBC",
+    "course_title": "Chess"
+  },
+  {
+    "class_code": "24997",
+    "course_code": "PE 2 CH SDE",
+    "course_title": "Chess"
+  },
+  {
+    "class_code": "24998",
+    "course_code": "PE 2 CH SIJ",
+    "course_title": "Chess"
+  },
+  {
+    "class_code": "24999",
+    "course_code": "PE 2 CH SKL",
+    "course_title": "Chess"
+  },
+  {
+    "class_code": "25004",
+    "course_code": "PE 2 CH THD",
+    "course_title": "Chess"
+  },
+  {
+    "class_code": "25005",
+    "course_code": "PE 2 CH THE",
+    "course_title": "Chess"
+  },
+  {
+    "class_code": "25006",
+    "course_code": "PE 2 CH THI",
+    "course_title": "Chess"
+  },
+  {
+    "class_code": "25007",
+    "course_code": "PE 2 CH THJ",
+    "course_title": "Chess"
+  },
+  {
+    "class_code": "24962",
+    "course_code": "PE 2 CPW SBC",
+    "course_title": "Camping for Wellness"
+  },
+  {
+    "class_code": "24977",
+    "course_code": "PE 2 CPW SBC-1",
+    "course_title": "Camping for Wellness"
+  },
+  {
+    "class_code": "24963",
+    "course_code": "PE 2 CPW SDE",
+    "course_title": "Camping for Wellness"
+  },
+  {
+    "class_code": "24978",
+    "course_code": "PE 2 CPW SDE-1",
+    "course_title": "Camping for Wellness"
+  },
+  {
+    "class_code": "25015",
+    "course_code": "PE 2 CT SDE",
+    "course_title": "Circuit Training"
+  },
+  {
+    "class_code": "24994",
+    "course_code": "PE 2 HIIT THC",
+    "course_title": "High Intensity Interval Training"
+  },
+  {
+    "class_code": "24995",
+    "course_code": "PE 2 HIIT WFC",
+    "course_title": "High Intensity Interval Training"
+  },
+  {
+    "class_code": "24959",
+    "course_code": "PE 2 OR MIJ",
+    "course_title": "Orienteering"
+  },
+  {
+    "class_code": "24960",
+    "course_code": "PE 2 OR MKL",
+    "course_title": "Orienteering"
+  },
+  {
+    "class_code": "24961",
+    "course_code": "PE 2 OR WFD",
+    "course_title": "Orienteering"
+  },
+  {
+    "class_code": "25000",
+    "course_code": "PE 2 PF THA",
+    "course_title": "Philippine Folk Dance"
+  },
+  {
+    "class_code": "25001",
+    "course_code": "PE 2 PF THB",
+    "course_title": "Philippine Folk Dance"
+  },
+  {
+    "class_code": "25002",
+    "course_code": "PE 2 PF THC",
+    "course_title": "Philippine Folk Dance"
+  },
+  {
+    "class_code": "25003",
+    "course_code": "PE 2 PF THD",
+    "course_title": "Philippine Folk Dance"
+  },
+  {
+    "class_code": "24992",
+    "course_code": "PE 2 PG SJK",
+    "course_title": "Philippine Games"
+  },
+  {
+    "class_code": "24988",
+    "course_code": "PE 2 PG THK",
+    "course_title": "Philippine Games"
+  },
+  {
+    "class_code": "24955",
+    "course_code": "PE 2 RF SBC",
+    "course_title": "Running for Fitness"
+  },
+  {
+    "class_code": "24956",
+    "course_code": "PE 2 RF THA",
+    "course_title": "Running for Fitness"
+  },
+  {
+    "class_code": "24957",
+    "course_code": "PE 2 RF THB",
+    "course_title": "Running for Fitness"
+  },
+  {
+    "class_code": "24966",
+    "course_code": "PE 2 RF THB-1",
+    "course_title": "Running for Fitness"
+  },
+  {
+    "class_code": "24967",
+    "course_code": "PE 2 RF THC",
+    "course_title": "Running for Fitness"
+  },
+  {
+    "class_code": "24958",
+    "course_code": "PE 2 RF WFA",
+    "course_title": "Running for Fitness"
+  },
+  {
+    "class_code": "24965",
+    "course_code": "PE 2 RF WFA-1",
+    "course_title": "Running for Fitness"
+  },
+  {
+    "class_code": "24968",
+    "course_code": "PE 2 RF WFB",
+    "course_title": "Running for Fitness"
+  },
+  {
+    "class_code": "24969",
+    "course_code": "PE 2 RF WFC",
+    "course_title": "Running for Fitness"
+  },
+  {
+    "class_code": "24974",
+    "course_code": "PE 2 SCD SBC",
+    "course_title": "Scuba Diving"
+  },
+  {
+    "class_code": "24975",
+    "course_code": "PE 2 SCD SDE",
+    "course_title": "Scuba Diving"
+  },
+  {
+    "class_code": "24976",
+    "course_code": "PE 2 SCD SJK",
+    "course_title": "Scuba Diving"
+  },
+  {
+    "class_code": "24979",
+    "course_code": "PE 2 SCL MAB",
+    "course_title": "Sports Climbing"
+  },
+  {
+    "class_code": "24980",
+    "course_code": "PE 2 SCL MCD",
+    "course_title": "Sports Climbing"
+  },
+  {
+    "class_code": "24981",
+    "course_code": "PE 2 SCL WCD",
+    "course_title": "Sports Climbing"
+  },
+  {
+    "class_code": "24989",
+    "course_code": "PE 2 ST THL",
+    "course_title": "Stretching"
+  },
+  {
+    "class_code": "25025",
+    "course_code": "PE 2 STD WFC",
+    "course_title": "Basic Street Dance"
+  },
+  {
+    "class_code": "25026",
+    "course_code": "PE 2 STD WFD",
+    "course_title": "Basic Street Dance"
+  },
+  {
+    "class_code": "25027",
+    "course_code": "PE 2 STD WFE",
+    "course_title": "Basic Street Dance"
+  },
+  {
+    "class_code": "25049",
+    "course_code": "PE 2 TD HAB",
+    "course_title": "Tap Dance"
+  },
+  {
+    "class_code": "25051",
+    "course_code": "PE 2 TD HGI",
+    "course_title": "Tap Dance"
+  },
+  {
+    "class_code": "24991",
+    "course_code": "PE 2 TD MAB",
+    "course_title": "Tap Dance"
+  },
+  {
+    "class_code": "24990",
+    "course_code": "PE 2 TD TAB",
+    "course_title": "Tap Dance"
+  },
+  {
+    "class_code": "25050",
+    "course_code": "PE 2 TD TGI",
+    "course_title": "Tap Dance"
+  },
+  {
+    "class_code": "25019",
+    "course_code": "PE 2 TT THD",
+    "course_title": "Table Tennis"
+  },
+  {
+    "class_code": "25020",
+    "course_code": "PE 2 TT THE",
+    "course_title": "Table Tennis"
+  },
+  {
+    "class_code": "24982",
+    "course_code": "PE 2 WF MBC",
+    "course_title": "Walking for Fitness"
+  },
+  {
+    "class_code": "24964",
+    "course_code": "PE 2 WF THA",
+    "course_title": "Walking for Fitness"
+  },
+  {
+    "class_code": "24972",
+    "course_code": "PE 2 WF THA-1",
+    "course_title": "Walking for Fitness"
+  },
+  {
+    "class_code": "24953",
+    "course_code": "PE 2 WF THB",
+    "course_title": "Walking for Fitness"
+  },
+  {
+    "class_code": "24970",
+    "course_code": "PE 2 WF THB-1",
+    "course_title": "Walking for Fitness"
+  },
+  {
+    "class_code": "24973",
+    "course_code": "PE 2 WF THB-2",
+    "course_title": "Walking for Fitness"
+  },
+  {
+    "class_code": "24954",
+    "course_code": "PE 2 WF THC",
+    "course_title": "Walking for Fitness"
+  },
+  {
+    "class_code": "24971",
+    "course_code": "PE 2 WF THC-1",
+    "course_title": "Walking for Fitness"
+  },
+  {
+    "class_code": "24983",
+    "course_code": "PE 2 WF WFB",
+    "course_title": "Walking for Fitness"
+  },
+  {
+    "class_code": "24984",
+    "course_code": "PE 2 WF WFC",
+    "course_title": "Walking for Fitness"
+  },
+  {
+    "class_code": "24993",
+    "course_code": "PE 2 WF WFL",
+    "course_title": "Walking for Fitness"
+  },
+  {
+    "class_code": "25014",
+    "course_code": "PE 2 WT SBC",
+    "course_title": "Weight Training"
+  }
+]
